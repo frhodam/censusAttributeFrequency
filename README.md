@@ -22,4 +22,4 @@ The set may contain of more than one attribute depending on the input.
 
 If I would like to know, sets of 2 attributes that have more than 0.7 appearance frequency, the algorithm will returns (only for example, not the real result):
 
->'native-country=United-States', 'race=White'  'race=White', 'capital-gain=None'
+>'native-country=United-States', 'race=White'  \'race=White', 'capital-gain=None'
