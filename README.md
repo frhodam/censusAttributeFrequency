@@ -1,0 +1,2 @@
+# censusAttributeFrequency
+Example problem hackerrank
