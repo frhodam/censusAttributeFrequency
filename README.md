@@ -24,3 +24,5 @@ If I would like to know, sets of 2 attributes that have more than 0.7 appearance
 
 >'native-country=United-States', 'race=White' \
 'race=White', 'capital-gain=None'
+
+This example problem is taken from hackerrank.com NA Data Science (EPH 2019 - 2020)
